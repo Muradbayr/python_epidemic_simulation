@@ -1,6 +1,6 @@
 # Python Epidemic Simulation
 
-#Milestone
+#Hi there!
 
 ## Summary
 
